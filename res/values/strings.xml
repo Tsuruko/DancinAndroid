@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DancinBeki</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+    
+    <!-- strings for the text display at top of main activity -->
+    <string name="dancing">Let\'s Dance!</string>
+	<string name="empty"></string>
+	<string name="movemax">Too many moves!</string>
+    
+    <string name="dance">Dance!</string>
+    
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    
+    <string name="description">DancinBeki lets you create awesome dances with Beki! </string>
+    <string name="instructions_dir">Click the direction buttons to create a series of dance moves.</string>
+    <string name="instructions_dance">Then Click the dance button to see beki perform. </string>
+    
+    <string name="numLabel">Number of Dancers: </string>
+    <string name="colLabel">Dancer Color: </string>
+    
+    <string name="white">white</string>
+    <string name="black">black</string>
+
+</resources>
