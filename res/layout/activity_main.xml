@@ -72,6 +72,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/danceButton"
         android:layout_centerHorizontal="true"
+        android:contentDescription="@string/desc"
         android:src="@drawable/dancedef" />
 
     <ImageView
@@ -80,6 +81,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/danceButton"
         android:layout_toLeftOf="@+id/dancer"
+        android:contentDescription="@string/desc"
         android:src="@drawable/empty" />
 
     <ImageView
@@ -88,6 +90,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/danceButton"
         android:layout_toRightOf="@+id/dancer"
+        android:contentDescription="@string/desc"
         android:src="@drawable/empty" />
 
     <ImageView
@@ -96,14 +99,16 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/danceButton"
         android:layout_toLeftOf="@+id/dancerL"
+        android:contentDescription="@string/desc"
         android:src="@drawable/empty" />
-
+  
     <ImageView
         android:id="@+id/DancerRR"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@+id/danceButton"
         android:layout_toRightOf="@+id/DancerR"
+        android:contentDescription="@string/desc"
         android:src="@drawable/empty" />
 
 </RelativeLayout>
