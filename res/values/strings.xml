@@ -26,5 +26,7 @@
     
     <string name="white">white</string>
     <string name="black">black</string>
+    
+    <string name="desc"></string>
 
 </resources>

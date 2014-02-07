@@ -70,6 +70,7 @@ public final class R {
         /**  strings for the text display at top of main activity 
          */
         public static final int dancing=0x7f050003;
+        public static final int desc=0x7f050012;
         public static final int description=0x7f05000b;
         public static final int down=0x7f05000a;
         public static final int empty=0x7f050004;
