@@ -1,3 +1,11 @@
+/*********************************
+ * UCSD VIS 141A project
+ * DancinAndroid 
+ * 
+ * Created By: Monica Liu
+ * Last Modified 2/10/14
+ ********************************/
+
 package com.example.dancinandroid;
 
 import android.app.Activity;
